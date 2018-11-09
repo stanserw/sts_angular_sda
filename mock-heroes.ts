@@ -1,5 +1,4 @@
 import { Hero } from './hero';
-import { HEROES } from './mock-heroes';
 
 export const HEROES: Hero[] = [
   { id: 11, name: 'Mr. Nice' },
@@ -13,4 +12,3 @@ export const HEROES: Hero[] = [
   { id: 19, name: 'Magma' },
   { id: 20, name: 'Tornado' }
 ];
-
